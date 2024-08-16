@@ -16,4 +16,4 @@ progressbar==2.5
 open3d-python==0.5.0.0
 tensorboardX==1.2
 cffi==1.11.5
-transforms3d
+transforms3d #Nish
